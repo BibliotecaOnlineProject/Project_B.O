@@ -1,2 +1,2 @@
-# Caso_de_Negocio_da_B.O
-Este repositoria da B.O(Biblioteca Online) é descrito o projeto e suas informações mais relevantes de todos os presentes na equipe de trabalho. 
+# Biblioteca_Online(B.O)
+Pense em uma biblioteca... agora pense na internet... ótimo, una os dois e temos a B.O, uma plataforma de gerenciamento para qualquer biblioteca da área educacional.
